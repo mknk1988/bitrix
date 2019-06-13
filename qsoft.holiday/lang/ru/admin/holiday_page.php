@@ -1,0 +1,22 @@
+<?php
+$MESS["HOLIDAY_SETTINGS_ERR_APP"] = "Ошибка доступа";
+$MESS["HOLIDAY_SETTINGS_TAB"] = "Основное";
+$MESS["HOLIDAY_SETTINGS_TITLE"] = "Основные настройки";
+$MESS["HOLIDAY_SETTINGS_TUMBLER_ON_DEF_VAL"] = "Стать космонавтом";
+$MESS["HOLIDAY_SETTINGS_TUMBLER_OFF_DEF_VAL"] = "Вернуться на землю";
+$MESS["HOLIDAY_SETTINGS_MODAL_NAME_DEF_VAL"] = "Выбрать скафандр";
+$MESS["HOLIDAY_SETTINGS_MODAL_BUTTON_DEF_VAL"] = "Поехали";
+$MESS["HOLIDAY_SETTINGS_TUMBLER_ON_DESC"] = "Текст для тумблера когда он включен:";
+$MESS["HOLIDAY_SETTINGS_TUMBLER_OFF_DESC"] = "Текст для тумблера когда он выключен:";
+$MESS["HOLIDAY_SETTINGS_MODAL_NAME_DESC"] = "Заголовок всплывающего окна с масками:";
+$MESS["HOLIDAY_SETTINGS_MODAL_BUTTON_DESC"] = "Название кнопки во всплывающем окне:";
+$MESS["HOLIDAY_SETTINGS_FORM_INDEX_DESC"] = "Основные настройки";
+$MESS["HOLIDAY_SETTINGS_FORM_DESC"] = "Настройка оформления";
+$MESS["HOLIDAY_SETTINGS_SWITCH_ON_DESC"] = "Включить модуль:";
+$MESS["HOLIDAY_SETTINGS_PARTY_IMAGE"] = "Выбрать изображение под логотипом:";
+$MESS["HOLIDAY_SETTINGS_BACKGROUND_TILE"] = "Выбрать фон сайта:";
+$MESS["HOLIDAY_SETTINGS_SPRITE_BLOCK_ID"] = "Инфоблок с иконками:";
+$MESS["HOLIDAY_SETTINGS_FORM_STYLES_DESC"] = "Стили";
+$MESS["HOLIDAY_SETTINGS_URL_NAME_DEF_VAL"] = "Ссылка.";
+$MESS["HOLIDAY_SETTINGS_URL_NAME"] = "Название ссылки на праздничную страницу:";
+$MESS["HOLIDAY_SETTINGS_URL_HREF"] = "Ссылка на праздничную страницу:";
